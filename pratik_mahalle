@@ -1,0 +1,47 @@
+{
+  "name": "Pratik Mahalle",
+  "bio": "Cyber Security ",
+  "socials": [
+    {
+      "icon": "FaTwitter",
+      "url": "https://twitter.com/pratikmahalle10"
+    },
+    {
+      "icon": "FaGithub",
+      "url": "https://github.com/shratik018"
+    },
+    {
+      "icon": "FaYoutube",
+      "url": "https://youtube.com/@Pratik_mahalle"
+    }
+  ],
+  "links": [
+    {
+      "group": "Primary Socials",
+      "name": "Twitter: Follow me",
+      "url": "https://twitter.com/pratikmahalle18",
+      "icon": "FaTwitter",
+      "color": "#00ACEE"
+    },
+    {
+      "group": "Primary Socials",
+      "name": "LinkedIn: Connect with me",
+      "url": "https://linkedin.com/in/pratikmahalle",
+      "icon": "FaLinkedin",
+      "color": "#00ACEE"
+    },
+    {
+      "group": "Primary Socials",
+      "name": "YouTube: Learn more about Cyber Security , and other technical terms",
+      "url": "https://youtube.com/@kpratik_mahalle",
+      "icon": "FaYoutube",
+      "color": "#FF0000"
+    },
+    {
+      "group": "Primary Socials",
+      "name": "Github: Contributing to open source",
+      "url": "https://github.com/shratik018",
+      "icon": "FaGithub"
+    }
+  ]
+}
